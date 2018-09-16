@@ -1,0 +1,33 @@
+{
+  "name": "phonegap-plugin-apploader",
+  "version": "1.0.1",
+  "description": "Downloads zip files, unzips them, and runs the contents in the Phonegap webview.",
+  "cordova": {
+    "id": "phonegap-plugin-apploader",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogo123150/phonegap-plugin-apploader.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "don",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/gogo123150/phonegap-plugin-apploader/issues"
+  },
+  "homepage": "https://github.com/gogo123150/phonegap-plugin-apploader#readme"
+}
